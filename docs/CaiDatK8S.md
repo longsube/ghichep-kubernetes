@@ -57,6 +57,13 @@ apt-get update
 apt-get install docker-ce
 ```
 
+### 1.4. Khai báo `/etc/hosts` trên tất cả các host
+```sh
+172.16.68.83    docker1
+172.16.68.84    docker2
+172.16.68.85    docker3
+```
+
 ## 2.  Triển khai cụm K8S
 ### 2.1. Trên host master, khởi tạo cụm K8S
 ```sh
