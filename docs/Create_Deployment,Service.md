@@ -6,7 +6,7 @@
 
 
 ## 1. Các bước chuẩn bị
-Đã triển khai cụm K8S theo hướng dẫn tại ![đây](https://github.com/longsube/ghichep-kubernetes/blob/master/docs/CaiDatK8S.md)
+Đã triển khai cụm K8S theo hướng dẫn tại [đây](https://github.com/longsube/ghichep-kubernetes/blob/master/docs/CaiDatK8S.md)
 
 
 ## 2. Tạo Deployment
